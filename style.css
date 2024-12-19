@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000; /* Set background color of the page to black */
+}
+
+canvas {
+  display: block;
+}
